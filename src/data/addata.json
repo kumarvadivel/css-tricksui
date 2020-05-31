@@ -1,0 +1,28 @@
+[
+    {
+        "adbannerimage":"https://res.cloudinary.com/css-tricks/image/fetch/w_600,q_auto,f_auto/https://cdn4.buysellads.net/uu/7/61647/1582745093-600x600_Templates_iso_gradient.jpg",
+        "adprofimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1544564316/Avatar_qr6vy9.png",
+        "adcontent":"Drag-n-drop stunning emails, faster! Fantastic design flexibility and 350+ ready-to-use email templates'."
+    },
+    {
+        "adbannerimage":"https://res.cloudinary.com/css-tricks/image/fetch/w_600,q_auto,f_auto/https://cdn4.buysellads.net/uu/7/63491/1587993467-BuySellAds_CSS-Tricks_Sidebar.png",
+        "adprofimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1544564316/Avatar_qr6vy9.png",
+        "adcontent":"Explore the future of data and front-end development. Free, virtual, global event."
+    },
+    {
+        "adbannerimage":"https://res.cloudinary.com/css-tricks/image/fetch/w_600,q_auto,f_auto/https://cdn4.buysellads.net/uu/7/64571/1588106229-sentry_css.png",
+        "adprofimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1544564316/Avatar_qr6vy9.png",
+        "adcontent":"Find bugs before they cause problems for your users"
+    },
+    {
+        "adbannerimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1559739084/0619_White_OnlineForms_2_600x500_zfqkk2.jpg",
+        "adprofimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1544563294/chriscoyier_fmktwo.jpg",
+        "adcontent":"Wufoo powers all our web forms here at CSS-Tricks, and has for over a decade!"
+    },
+    {
+        "adbannerimage":"https://res.cloudinary.com/css-tricks/image/fetch/w_600,q_auto,f_auto/https://cdn4.buysellads.net/uu/7/58884/1580308746-SendGrid_V2.jpg",
+        "adprofimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1544564316/Avatar_qr6vy9.png",
+        "adcontent":"Implement our SMTP service in under 5 minutes with our quick and easy 2-step sign-up process."
+    }
+   
+]

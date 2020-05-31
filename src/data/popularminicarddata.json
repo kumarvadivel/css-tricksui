@@ -1,0 +1,112 @@
+[
+    {
+        "meta":"Article",
+        "date":"Apr24,2020",
+        "title":"How to Make a CSS-Only Carousel",
+        "avatarlink":"https://css-tricks.com/wp-content/uploads/2019/01/me-black-white-80x80.jpg",
+        "name":"Robin Rendel",
+        "tags":
+        [{"value":"carrousel"}]
+    },
+    {
+        "meta":"Article",
+        "date":"Apr24,2020",
+        "title":"SVG,Favicons,and All the Fun Things We Can Do With Them",
+        "avatarlink":"https://secure.gravatar.com/avatar/188a9d4deb76ac6e69c7f65358897476?s=80&d=retro&r=pg",
+        "name":"Eric Bailey",
+         "tags":
+        [
+            {"value":"Dark Mode"},
+            {"value":"Favicon"},
+            {"value":"Media Queries"},
+            {"value":"SVG"},
+            {"value":"SCG ICONS"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr20,2020",
+        "title":"Creating Playful Effects With CSS Text Shadows",
+        "avatarlink":"https://secure.gravatar.com/avatar/448d5e0f71e6b2712d853a6e5f219504?s=80&d=retro&r=pg",
+        "name":"Sarah Fossheim",
+         "tags":
+        [
+            {"value":"TEXT EFFECT"},
+            {"value":"TEXT-SHADOW"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr27,2020",
+        "title":"Advice for Writing a Technical Resume",
+        "avatarlink":"https://secure.gravatar.com/avatar/48cfd8342f9b9e5b7970f63afb0a8ee3?s=80&d=retro&r=pg",
+        "name":"Sarah Drasner",
+         "tags":
+        [
+            {"value":"COVER LETTERS"},
+            {"value":"JOB SEARCHING"},
+            {"value":"RESUME"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr23,2020",
+        "title":"Accessible Font Sizing, Explained",
+        "avatarlink":"https://css-tricks.com/wp-content/uploads/2017/04/Ando1-80x80.jpg",
+        "name":"Andres Galante",
+         "tags":
+        [
+            {"value":"ACCESSIBLITY"},
+            {"value":"FONT-SIZE"},
+            {"value":"USER AGENT STYLESHEETS"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr17,2020",
+        "title":"Better Form Inputs for Better Mobile User Experiences",
+        "avatarlink":"https://css-tricks.com/wp-content/uploads/2018/06/Qapq7DoW_400x400-80x80.jpg",
+        "name":"Alex Holachek",
+         "tags":
+        [
+            {"value":"AUTOCOMPLETE"},
+            {"value":"FORMS"},
+            {"value":"INPUTMODE"},
+            {"value":"INPUTS"},
+            {"value":"UX"}
+            ]
+    }, {
+        "meta":"Article",
+        "date":"May4,2020",
+        "title":"A Complete Guide to CSS Functions",
+        "avatarlink":"https://secure.gravatar.com/avatar/188a9d4deb76ac6e69c7f65358897476?s=80&d=retro&r=pg",
+        "name":"Eric Bailey",
+         "tags":
+        [{"value":"FUNCTIONS"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr14,2020",
+        "title":"Using CSS to Set Text Inside a Circle",
+        "avatarlink":"https://css-tricks.com/wp-content/uploads/2020/03/kerry-smyth-160px-80x80.jpg",
+        "name":"Kerry Smyth",
+         "tags":
+        [
+            {"value":"BLOCKQUOTE"},
+            
+        {"value":"SHAPE-OUTSIDE"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr7,2020",
+        "title":"How to Re-Create a Nifty Netflix Animation in CSS",
+        "avatarlink":"https://secure.gravatar.com/avatar/198ca0afaecca805a9f0a26dc8c7f85c?s=80&d=retro&r=pg",
+        "name":"Chris GeelHoed",
+         "tags":
+        [
+            {"value":"CSS ANIMATION"},
+            
+        {"value":"TRANSFORM"}]
+    }, {
+        "meta":"Article",
+        "date":"Apr6,2020",
+        "title":"A Grid of Logos in Squares",
+        "avatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "name":"Chris Coyier",
+         "tags":
+        [
+            {"value":"ASPECT RATIO"},
+            
+        {"value":"GRID"}]
+    }
+]

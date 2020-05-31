@@ -1,0 +1,85 @@
+[
+    {
+        "articlemeta":"Link",
+        "articledate":"May 29,2020",
+        "articletitle":"Global CSS options with custom properties",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "authorname":"Chris Coyier",
+        "newscontent1":"With a preprocessor, like Sass, building a logical “do this or don’t” setting is fairly straightforward:$option: false;@mixin doThing {@if $option {do-thing: yep;}}.el {@include doThing;}",
+        "newscontent2":"Can we do that in native CSS with custom properties? Mark Otto shows that we can. It’s just a smidge different. … "
+    
+    },
+        {
+        "articlemeta":"Article",
+        "articledate":"May 29,2020",
+        "articletitle":"Building Your First Serverless Service With AWS Lambda Functions",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/d4b0907c0d98a2394568d9bf9e8814c3?s=80&d=retro&r=pg",
+        "authorname":"Adam Rackis",
+        "newscontent1":"Many developers are at least marginally familiar with AWS Lambda functions. They’re reasonably straightforward to set up, but the vast AWS landscape can make it hard to see the big picture. With so many different pieces it can be daunting, and frustratingly hard to see how they fit seamlessly into a normal web application.",
+        "newscontent2":"The Serverless framework is a huge help here. It streamlines the creation, deployment, and most significantly, the integration of Lambda functions into a web app. To …"
+    
+    },    {
+        "articlemeta":"Article",
+        "articledate":"May 29,2020",
+        "articletitle":"Jamstack News!",
+        "authoravatarlink":"https://css-tricks.com/wp-content/uploads/2019/01/me-black-white-80x80.jpg",
+        "authorname":"Robin Rendle",
+        "newscontent1":"I totally forgot that the Jamstack Conf was this week but thankfully they’ve already published the talks on the Jamstack YouTube channel. I’m really looking forward to sitting down with these over a coffee while I also check out Netlify’s other big release today: Build Plugins.…",
+        "newscontent2":""
+    
+    },    {
+        "articlemeta":"Article",
+        "articledate":"May 28,2020",
+        "articletitle":"Core Web Vitals",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "authorname":"Chris Coyier",
+        "newscontent1":"Core Web Vitals is what Google is calling a a new collection of three web performance metrics:LCP: Largest Contentful Paint <br/> FID: First Input Delay <br/> CLS: Cumulative Layout Shift",
+        "newscontent2":"These are all measurable. They aren’t in Lighthouse (e.g. the Audits tab in Chrome DevTools) just yet, but sounds like that’s coming up soon. For now, an open source library will get you the numbers. There is also a browser extension (that feels pretty alpha as you have …"
+    
+    },    {
+        "articlemeta":"Article",
+        "articledate":"May 27,2020",
+        "articletitle":"The Expanding Gamut of Color the Web",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "authorname":"Chris Coyier",
+        "newscontent1":"CSS was introduced to the web all the way back in 1996. At the time, most computer monitors were pretty terrible. The colors of CSS — whether defined with the RGB, HSL, or hexadecimal format — catered to the monitors of the time, all within the sRGB colorspace.",
+        "newscontent2":"Most newer devices have a wide-gamut display. A gamut is the range of colors that can be displayed. A wide-gamut display is capable of showing more colors than sRGB. They use the … "
+    
+    },    {
+        "articlemeta":"Article",
+        "articledate":"May 27,2020",
+        "articletitle":"The Expanding Gamut of Color the Web",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "authorname":"Chris Coyier",
+        "newscontent1":"CSS was introduced to the web all the way back in 1996. At the time, most computer monitors were pretty terrible. The colors of CSS — whether defined with the RGB, HSL, or hexadecimal format — catered to the monitors of the time, all within the sRGB colorspace.",
+        "newscontent2":"Most newer devices have a wide-gamut display. A gamut is the range of colors that can be displayed. A wide-gamut display is capable of showing more colors than sRGB. They use the … "
+    
+    },    {
+        "articlemeta":"Article",
+        "articledate":"May 28,2020",
+        "articletitle":"A First Look at `aspect-ratio`",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "authorname":"Chris Coyier",
+        "newscontent1":"Oh hey! A brand new property that affects how a box is sized! That’s a big deal. There are lots of ways already to make an aspect-ratio sized box (and I’d say this custom properties based solution is the best), but none of them are particularly intuitive and certainly not as straightforward as declaring a single property.",
+        "newscontent2":""
+    
+    },    {
+        "articlemeta":"Link",
+        "articledate":"May 28,2020",
+        "articletitle":"PureCSS Gaze",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+        "authorname":"Chris Coyier",
+        "newscontent1":"Diana Smith with another mind-bending all HTML & CSS painting.",
+        "newscontent2":""
+    
+    },    {
+        "articlemeta":"Article",
+        "articledate":"May 28,2020",
+        "articletitle":"Background Patterns, Simplified by Conic Gradients",
+        "authoravatarlink":"https://secure.gravatar.com/avatar/bee436794e066a5423040cf673c7506f?s=80&d=retro&r=pg",
+        "authorname":"Ana Tudor",
+        "newscontent1":"For those who have missed the big news, Firefox now supports conic gradients!",
+        "newscontent2":"Enabling conic gradients in Firefox 75+"
+    
+    }
+]

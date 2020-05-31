@@ -1,0 +1,35 @@
+{
+    "articlemeta":"Fresh Article",
+    "articledate":"May 27,2020",
+    "articletitle":"The Expanding Gamut of Color the Web",
+    "authoravatarlink":"https://secure.gravatar.com/avatar/8081b26e05bb4354f7d65ffc34cbbd67?s=80&d=retro&r=pg",
+    "authorname":"Chris Coyier",
+    "newscontent1":"CSS was introduced to the web all the way back in 1996. At the time, most computer monitors were pretty terrible. The colors of CSS — whether defined with the RGB, HSL, or hexadecimal format — catered to the monitors of the time, all within the sRGB colorspace.",
+    "newscontent2":"Most newer devices have a wide-gamut display. A gamut is the range of colors that can be displayed. A wide-gamut display is capable of showing more colors than sRGB. They use the … ",
+    "adbannerimage":"https://res.cloudinary.com/css-tricks/image/fetch/w_600,q_auto,f_auto/https://cdn4.buysellads.net/uu/7/64571/1588623406-16708.jpg",
+    "adprofimage":"https://res.cloudinary.com/css-tricks/image/upload/f_auto,q_auto/v1544564316/Avatar_qr6vy9.png",
+    "adcontent":"Lending a hand to the testing community—now 1,000 runs in the free Community plan!",
+    "tags":[
+        {
+            "value":"COLOR"
+        },
+        {
+            "value":"COLOR()"
+        },
+        {
+            "value":"LAB"
+        },
+         {
+            "value":"COLOR Gammut"
+        },
+         {
+            "value":"LCH"
+        },
+         {
+            "value":"WEB-COLOR"
+        },
+        {
+            "value":"DISPLAY-P3"
+        }
+    ]
+}
